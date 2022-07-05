@@ -1,7 +1,6 @@
 var urlArray = [
-    "https://www.google.com",
-    "https://www.yahoo.com",
-    "https://www.stackoverflow.com"
+    "https://t.maze.co/99868196",
+    "https://t.maze.co/100029604"
 ];
 
 function randomUrl() {
